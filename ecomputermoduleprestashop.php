@@ -8,7 +8,7 @@ class EcomputerModulePrestashop extends Module {
 		$this->name = 'ecomputermoduleprestashop';
 		$this->tab = 'others';
 		$this->version = '1.0';
-		$this->author = 'Internet Ecomputer';
+		$this->author = 'Ecomputer';
 		$this->need_instance = 0;
 		$this->ps_versions_compilancy = array('min' => '1.5', 'max' => '1.6');
 		$this->bootstrap = true;
